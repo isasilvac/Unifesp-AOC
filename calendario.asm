@@ -14,6 +14,7 @@
 .globl main
 main:
 	#area para instrucoes do programa
+	#esse programa monta uma data com as informacoes inseridas
 	
 	mes:
 	li $v0,4 #instrucao para impressao de string
