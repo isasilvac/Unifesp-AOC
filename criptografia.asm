@@ -7,7 +7,7 @@
 	nextLine: .asciiz   "\n"
 .text 
 	#area para instrucoes no programa
-	#esse programa criptograma a mensagem inserida
+	#esse programa criptografa a mensagem inserida
 .globl main
 
 main:
